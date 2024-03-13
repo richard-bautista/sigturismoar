@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VoidARDemo/Scenes/DynamicLoadDemo.unity
+    guid: 3b3f6f2ae0fce2344a5f27f6f2c5dd96
+  m_configObjects: {}
